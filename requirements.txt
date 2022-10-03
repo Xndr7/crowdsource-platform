@@ -14,7 +14,7 @@ google-api-python-client
 gunicorn==19.3.0
 hashids
 httpie
-numpy==1.9.2
+numpy==1.22.0
 pandas==0.16.2
 paypalrestsdk
 psycopg2==2.6
