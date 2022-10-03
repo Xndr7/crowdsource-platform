@@ -1,5 +1,5 @@
 cffi
-Django==1.9
+Django==2.2.28
 django-appconf==1.0.1
 django-autofixture
 -e git+https://github.com/django-compressor/django-compressor.git@94755c5aa62d0e659c863bbe75968f51c094be6e#egg=django-compressor
