@@ -11,7 +11,7 @@ dj-static==0.0.6
 django-toolbelt==0.0.1
 dropbox
 google-api-python-client
-gunicorn==19.3.0
+gunicorn==21.2.0
 hashids
 httpie
 numpy==1.9.2
